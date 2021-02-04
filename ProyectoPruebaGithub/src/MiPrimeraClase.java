@@ -6,5 +6,6 @@ public class MiPrimeraClase {
 	}
 	private static void otroMetodo() {
 		System.out.println("Esto es otro metodo");
+		System.out.println("Esto es otro ");
 	}
 }
